@@ -1,4 +1,4 @@
-### Console.Writeline("Hi ✌");
+### Console.WriteLine("Hi ✌");
 
 ### 👨‍💻 I'm César, Master in Web Technologies and Mobile Devices, focused on Microsoft Technologies.
 ###  ⚙ Lead and Organizer of `Guadalajara.Connect()` community and Staff member of `PosaDev`
