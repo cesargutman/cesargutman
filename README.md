@@ -18,8 +18,3 @@
 | :--- | :--- |
 | Ingeniería de Software (2020) |  https://www.youtube.com/watch?v=0dFuuGxOel8 |
 | Las tecnologías al servicio de la comunidad (2021) | http://conecta-ti.delasalle.edu.mx/episode.php?e=16 |
-
-### 📧 Contact
-### Facebook: https://www.facebook.com/ing.cesargutman
-### Twitter: https://twitter.com/cesar_gutman
-### Instagram: https://www.instagram.com/gutman_dancer
