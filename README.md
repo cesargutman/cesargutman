@@ -12,7 +12,7 @@
 | Panorama de las tecnologías de la información: ¿hacia dónde vamos? (2019) |  https://www.youtube.com/watch?v=2jt-fzBWdFY |
 | Estado actual del ecosistema de desarrollo con .NET (2021) | https://www.youtube.com/watch?v=ZUdxB9NNuRs |
 | Evolución de los servicios web con .NET (2021) | https://www.youtube.com/watch?v=hTNQ6R-NzMU |
-| Consejos prácticos para lograr tus objetivos profesionales (2021) | https://www.youtube.com/watch?v=5_J10Gpk_GM |
+| Consejos prácticos para lograr tus objetivos profesionales (2021) | https://www.youtube.com/watch?v=5m8vSxX05bw |
 
 ### 🎙 Interviews (Spanish):
 | Topic | Link | 
