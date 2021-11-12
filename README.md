@@ -10,7 +10,7 @@
 | Diseño e implementación de un chatbot con .NET (2018) | https://www.youtube.com/watch?v=ZUdxB9NNuRs |
 | Fundamentos de experiencia de usuario para desarrolladores (2019) | https://www.youtube.com/watch?v=B-FgWmw3nPo |
 | Panorama de las tecnologías de la información: ¿hacia dónde vamos? (2019) |  https://www.youtube.com/watch?v=2jt-fzBWdFY |
-| Estado actual del ecosistema de desarrollo con .NET (2021) | https://www.youtube.com/watch?v=ZUdxB9NNuRs |
+| Estado actual del ecosistema de desarrollo con .NET (2021) | https://www.youtube.com/watch?v=0JWvoBTd_oY |
 | Evolución de los servicios web con .NET (2021) | https://www.youtube.com/watch?v=hTNQ6R-NzMU |
 | Consejos prácticos para lograr tus objetivos profesionales (2021) | https://www.youtube.com/watch?v=5m8vSxX05bw |
 
